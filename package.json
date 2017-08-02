@@ -1,0 +1,24 @@
+{
+  "name": "dead-simple-grid-css",
+  "version": "1.0.1",
+  "description": "Unofficial NPM package for dead-simple-grid css by Vladimir Agafonkin (https://github.com/mourner/dead-simple-grid)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiksoft/dead-simple-grid-npm.git"
+  },
+  "keywords": [
+    "css",
+    "layout",
+    "minimal"
+  ],
+  "author": "kadzany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiksoft/dead-simple-grid-npm/issues"
+  },
+  "homepage": "https://github.com/apiksoft/dead-simple-grid-npm#readme"
+}
